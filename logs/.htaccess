@@ -1,0 +1,6 @@
+# 注意：此 .htaccess 仅适用于 Apache。
+# 你当前使用 Nginx，请参考项目根目录的 nginx-security.conf 配置。
+# 对应 Nginx 配置：
+#   location /logs/ { deny all; }
+
+Deny from all

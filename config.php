@@ -8,12 +8,15 @@
  * - 自动创建所需数据表
  */
 
-// 数据库配置
-define('DB_HOST', '127.0.0.1');
-define('DB_PORT', '3306');
-define('DB_NAME', 're');
-define('DB_USER', 're');
-define('DB_PASS', 'FBzD8EwGHzDA7b5m');
+// 数据库配置(需修改)
+
+
+
+define('DB_HOST', '');
+define('DB_PORT', '');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASS', '');
 define('DB_CHARSET', 'utf8mb4');
 
 /**
